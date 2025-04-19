@@ -1,5 +1,18 @@
-# 💫 About Me:
-- 🔭 I’m currently working on Webberax Solutions Pvt.ltd.<br>- 🌱 I’m currently learning Digital Marketing<br>- 👯 I’m looking to collaborate on Mern Stack developer and Email Marketing Analyst<br>- 📫 How to reach me: kirubanithi1065@gmail.com
+<h1 align="center" style="font-weight: bold; color: #4CAF50;">Hi 👋, I'm Kirubanithi S</h1>
+<h3 align="center" style="font-weight: bold; color: #1976D2;">MERN Full Stack Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Mern+Stack+Developer;Email+Marketing+Analyst;Lifelong+Learner;Open+to+Opportunities" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me  
+-    I’m currently working on Webberax Solutions Pvt.ltd.<br>
+- 🌱 I’m currently learning ** Digital Marketing **.  
+- 👨‍💻 Explore my projects at [Portfolio Website](https://kirubanithi-portfolio.netlify.app/)  
+- 💬 Feel free to ask me about **JavaScript | React | Redux  | Node.js | Express.js | MongoDB | Python**.  
+- 📫 Reach me at **kirubanithi1065@gmail.com**  
 
 
 ## 🌐 Socials:
